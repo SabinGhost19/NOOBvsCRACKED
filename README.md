@@ -57,4 +57,4 @@ If you find this repository helpful, please consider giving it a star! ⭐
 
 ---
 
-**Remember**: The difference between a NOOB and a CRACKED developer is not talent, but practice, learning from mistakes, and following best practices! 🚀
+**Remember**: The difference between a NOOB and a CRACKED developer is not talent, but practice, learning from mistakes, and following best practices
